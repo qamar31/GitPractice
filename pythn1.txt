@@ -1,0 +1,4 @@
+a=10
+b=20
+print("Welcome to Python")
+print("You are learning Big Data")

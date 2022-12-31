@@ -1,0 +1,6 @@
+a=10
+b=20
+print("The Sum of the integers is",a+b)
+print("The Substraction of Integers is",a-b)
+print("The Division of Integers is",a/b)
+print("The Multiplication of Integers is",a*b)
